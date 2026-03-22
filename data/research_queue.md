@@ -1,37 +1,44 @@
 # Research Queue
 
-Prioritized list of industries, verticals, and source types to explore next.
+Prioritized list of quick-win categories and methods to explore.
 Claude should work through this queue during autonomous research sessions,
 moving items to "Explored" once covered and adding new leads as discovered.
 
 ## High Priority
-- [ ] Healthcare: Prior authorization and insurance claim workflows
-- [ ] Healthcare: Clinical documentation and coding (ICD-10, CPT)
-- [ ] Compliance: AML/KYC processes in banking and fintech
-- [ ] Back-office: Accounts payable / invoice processing
-- [ ] Back-office: Employee onboarding paperwork
-- [ ] Legal: Contract review and due diligence for small firms
+- [x] AI-powered freelance services (sell AI-assisted writing, design, coding on Upwork/Fiverr)
+- [ ] Digital product flipping (buy undervalued templates, courses, assets -- resell or improve)
+- [ ] Marketplace arbitrage (Amazon/eBay/Walmart cross-platform price gaps)
+- [ ] AI automation agency (sell AI workflow setups to small businesses)
+- [ ] Content monetization shortcuts (faceless YouTube, AI blogs, newsletter flips)
+- [ ] Drop servicing (sell services, outsource fulfillment, keep margin)
 
 ## Medium Priority
-- [ ] Insurance: Claims adjustment and underwriting data gathering
-- [ ] Logistics: Customs and import/export documentation
-- [ ] Construction: Permit applications and safety compliance reporting
-- [ ] Education: Accreditation reporting and student records management
-- [ ] Real Estate: Title search and closing document preparation
+- [ ] Domain and website flipping (buy undervalued sites on Flippa, improve, resell)
+- [ ] Print-on-demand with AI designs (Merch by Amazon, Redbubble, Etsy)
+- [ ] Affiliate marketing loopholes (underserved niches, comparison sites, expired domains with backlinks)
+- [ ] Micro-SaaS quick builds (simple tools that solve one problem, charge $10-50/month)
+- [ ] Social media management with AI (manage accounts using AI tools, charge retainer)
+- [ ] Local business lead generation (rank simple sites, sell leads to contractors/dentists/etc)
 
 ## Low Priority / Exploratory
-- [ ] Agriculture: USDA reporting and subsidy applications
-- [ ] Nonprofit: Grant application and reporting workflows
-- [ ] Government: FOIA request processing
+- [ ] Crypto and DeFi yield opportunities (staking, airdrops, testnet farming)
+- [ ] Data scraping and selling (public data packaged as valuable datasets)
+- [ ] API arbitrage (connect two services that don't talk to each other, charge for the bridge)
+- [ ] Online tutoring/coaching with AI leverage (use AI to prep, scale 1:many)
+- [ ] Digital real estate (buy/build niche directories, rank, monetize with ads or listings)
+- [ ] Prompt engineering marketplace (sell specialized prompts/agents)
 
 ## Explored
-(Items move here once sources have been explored and pains extracted)
+(Items move here once sources have been explored and opportunities extracted)
 
 ## Source Leads
-(Specific URLs, reports, or articles to check)
-- https://www.beckershospitalreview.com - healthcare operations pain points
-- https://www.cms.gov - CMS regulatory requirements driving manual work
-- Search: "most time-consuming back office tasks" site:reddit.com
-- Search: "manual processes in healthcare administration"
-- Search: "prior authorization burden physicians"
-- Search: "accounts payable automation pain points"
+(Specific URLs, threads, or videos to check)
+- Search: "how I made money online fast" site:reddit.com
+- Search: "side hustle that actually works 2025"
+- Search: "AI freelancing income proof"
+- Search: "marketplace arbitrage tutorial"
+- Search: "micro saas ideas that make money"
+- Search: "faceless youtube channel income"
+- Search: "drop servicing guide 2025"
+- Search: "website flipping income report"
+- Search: "underrated ways to make money online"
