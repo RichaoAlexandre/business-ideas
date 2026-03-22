@@ -75,8 +75,10 @@ Pains that have been validated and are worth building a business around.
 
 ## Research Workflow
 
-### Autonomous Batch Research
-When asked to research, follow this process:
+### Autonomous Continuous Research Loop
+When asked to research, run **continuously in a loop** until the research queue is exhausted. Do NOT stop to ask the user questions. Do NOT wait for confirmation between batches. Make your own judgment calls and keep moving. If a source fails to load, skip it and try another. If you're unsure about a score, make your best estimate — you can always adjust later.
+
+**Each loop iteration (one batch):**
 
 1. **Check the queue**: Read `data/research_queue.md` for next industries/sources to explore.
 2. **Check explored sources**: Read `data/sources.csv` to avoid re-exploring the same URLs.
@@ -88,6 +90,9 @@ When asked to research, follow this process:
 8. **Graduate opportunities**: For validated pains, create an entry in `data/opportunities.csv` with a proposed solution and priority_score.
 9. **Update the queue**: Check off explored items in `data/research_queue.md`, add newly discovered leads.
 10. **Log the session**: Append a session summary to `logs/sessions.md` with: queue items worked, sources explored (with findings count), pains added/scored, decisions and observations, opportunities graduated. Never read this file back — it is for the user's review only.
+11. **Loop**: Go back to step 1 and start the next batch. Keep going until the queue is empty or all items have been explored.
+
+**Error handling**: If a fetch fails, log it and move on. If a search returns no results, try alternative search terms. If an entire queue item yields nothing after 3 sources, mark it as explored with a note and move to the next item. Never stop to ask the user.
 
 ### Scoring Guidelines
 - **pain_cost**: Very High = >$100K/year per org wasted; High = $10K-$100K; Medium = $1K-$10K; Low = <$1K
