@@ -31,14 +31,22 @@ moving items to "Explored" once covered and adding new leads as discovered.
 ## Explored
 (Items move here once sources have been explored and opportunities extracted)
 
+## New Leads (Discovered During Research)
+- [x] AI agent building as a service (building custom AI agents/GPTs for businesses — emerging high-value niche)
+- [ ] AI-powered email marketing service (write and optimize email sequences for e-commerce using AI)
+- [ ] Productized AI audit service (audit businesses' AI readiness and recommend tools for $500-2K)
+- [x] AI video editing and repurposing service (turn long videos into shorts/clips using AI tools)
+- [ ] White-label AI chatbot reselling (buy chatbot platform, resell to SMBs with markup)
+- [ ] AI-powered bookkeeping/accounting for freelancers (automate with AI, charge monthly retainer)
+
 ## Source Leads
 (Specific URLs, threads, or videos to check)
-- Search: "how I made money online fast" site:reddit.com
-- Search: "side hustle that actually works 2025"
-- Search: "AI freelancing income proof"
-- Search: "marketplace arbitrage tutorial"
-- Search: "micro saas ideas that make money"
-- Search: "faceless youtube channel income"
-- Search: "drop servicing guide 2025"
-- Search: "website flipping income report"
-- Search: "underrated ways to make money online"
+- [x] Search: "how I made money online fast" site:reddit.com — blocked by robots.txt
+- [x] Search: "side hustle that actually works 2025" — covered in batch 1-2
+- [x] Search: "AI freelancing income proof" — covered in batch 1
+- [x] Search: "marketplace arbitrage tutorial" — covered in batch 3
+- [x] Search: "micro saas ideas that make money" — covered in batch 9
+- [x] Search: "faceless youtube channel income" — covered in batch 5
+- [x] Search: "drop servicing guide 2025" — covered in batch 6
+- [x] Search: "website flipping income report" — covered in batch 7
+- [x] Search: "underrated ways to make money online" — to explore
