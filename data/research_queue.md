@@ -10,7 +10,7 @@ moving items to "Explored" once covered and adding new leads as discovered.
 - [x] Marketplace arbitrage (Amazon/eBay/Walmart cross-platform price gaps)
 - [x] AI automation agency (sell AI workflow setups to small businesses)
 - [x] Content monetization shortcuts (faceless YouTube, AI blogs, newsletter flips)
-- [ ] Drop servicing (sell services, outsource fulfillment, keep margin)
+- [x] Drop servicing (sell services, outsource fulfillment, keep margin)
 
 ## Medium Priority
 - [ ] Domain and website flipping (buy undervalued sites on Flippa, improve, resell)
