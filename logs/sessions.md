@@ -70,3 +70,34 @@ Append-only log of research sessions. Each session records what was explored, wh
 - Canva templates on Etsy is a proven and saturated market -- differentiation through micro-niches is critical
 - B2B mini-courses have a much higher ceiling than B2C and face less competition
 - DuckDuckGo rate limiting is a significant bottleneck -- need to rely on direct fetches more
+
+---
+
+## Session 3 — 2026-03-22 — Marketplace Arbitrage
+
+**Queue item:** Marketplace arbitrage (Amazon/eBay/Walmart cross-platform price gaps)
+
+**Sources explored (5):**
+1. repricerexpress.com — Amazon OA Q&A — **2 findings** — Quality: Medium
+2. webretailer.com — Online Arbitrage Guide — **2 findings** — Quality: Medium
+3. junglescout.com — Too many redirects — **0 findings** — Quality: Low
+4. sellerapp.com — 404 Not Found — **0 findings** — Quality: Low
+5. amzscout.net — 404 Not Found — **0 findings** — Quality: Low
+
+**Note:** DuckDuckGo still rate-limited entire session. 3 of 5 sources failed to load (dead links or redirects). This is a well-documented niche so existing knowledge supplemented sparse sources.
+
+**Opportunities added:** 4 (IDs 16-19 in pains.csv)
+- Amazon Online Arbitrage via FBA (High revenue, validated)
+- Cross-Platform Price Arbitrage eBay/Walmart→Amazon (Medium revenue, scored)
+- Clearance/Liquidation Flipping on Amazon (High revenue, scored)
+- AI-Powered Arbitrage Scanning Service (High revenue, scored)
+
+**Quick wins graduated:** 1 (ID 6 in opportunities.csv)
+1. Amazon Online Arbitrage via FBA — priority 6.2 — Proven £1M+ model, needs $500+ startup capital, daily work required
+
+**Key observations:**
+- Online arbitrage is well-proven but requires more capital ($500+) and daily active work compared to service/digital product models
+- Many older arbitrage blog posts are now dead links (404s) -- the content ecosystem has shifted
+- The meta-play (selling arbitrage scanning as a service) may be higher ROI than doing arbitrage yourself
+- Clearance/liquidation flipping has highest margins (50-90%) but is harder to systematize
+- This niche is well-documented but most advice is outdated (2018 era) -- current landscape may differ
