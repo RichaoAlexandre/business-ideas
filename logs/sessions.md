@@ -37,3 +37,36 @@ Append-only log of research sessions. Each session records what was explored, wh
 - Zero-to-low startup costs across the board — most require only a ChatGPT subscription and platform account
 - DuckDuckGo rate-limited after ~4 search batches — may need to space out searches or use direct URL fetching
 - Grey Journal article was exceptionally high quality with cited Upwork data from 2026
+
+---
+
+## Session 2 — 2026-03-22 — Digital Product Flipping
+
+**Queue item:** Digital product flipping (buy undervalued templates, courses, assets -- resell or improve)
+
+**Sources explored (4):**
+1. shopify.com — Digital Products Guide — **3 findings** — Quality: High
+2. thinkific.com — Best Digital Products 2025 — **3 findings** — Quality: Medium
+3. ecommerceceo.com — Selling Digital Products — **1 finding** — Quality: Medium
+4. sidehustlenation.com — Selling Digital Products B2B — **1 finding** — Quality: Medium
+
+**Note:** DuckDuckGo rate-limited for most of this session. Relied on direct URL fetching for known sites.
+
+**Opportunities added:** 6 (IDs 10-15 in pains.csv)
+- Canva Template Packs on Etsy/Gumroad (Medium revenue, validated)
+- Notion Template Store (Medium revenue, scored)
+- PLR Content Repurposing and Reselling (Medium revenue, scored)
+- Niche Printable Digital Downloads on Etsy (Medium revenue, scored)
+- AI-Enhanced Online Mini-Courses (High revenue, validated)
+- Digital Product Bundle Flipping (Medium revenue, scored)
+
+**Quick wins graduated:** 2 (IDs 4-5 in opportunities.csv)
+1. Canva Template Packs on Etsy — priority 6.5 — Proven model, 90%+ margins, passive income after listing
+2. AI-Enhanced Online Mini-Courses — priority 6.8 — B2B niche courses command premium; AI speeds up creation
+
+**Key observations:**
+- Digital product market is $124B+ and growing. 90% profit margins are standard.
+- The "flipping" angle (buy PLR, rebrand, resell) is viable but lower-ceiling than creating original products
+- Canva templates on Etsy is a proven and saturated market -- differentiation through micro-niches is critical
+- B2B mini-courses have a much higher ceiling than B2C and face less competition
+- DuckDuckGo rate limiting is a significant bottleneck -- need to rely on direct fetches more

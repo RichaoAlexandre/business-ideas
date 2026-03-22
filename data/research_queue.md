@@ -6,7 +6,7 @@ moving items to "Explored" once covered and adding new leads as discovered.
 
 ## High Priority
 - [x] AI-powered freelance services (sell AI-assisted writing, design, coding on Upwork/Fiverr)
-- [ ] Digital product flipping (buy undervalued templates, courses, assets -- resell or improve)
+- [x] Digital product flipping (buy undervalued templates, courses, assets -- resell or improve)
 - [ ] Marketplace arbitrage (Amazon/eBay/Walmart cross-platform price gaps)
 - [ ] AI automation agency (sell AI workflow setups to small businesses)
 - [ ] Content monetization shortcuts (faceless YouTube, AI blogs, newsletter flips)
