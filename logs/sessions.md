@@ -205,3 +205,29 @@ Append-only log of research sessions. Each session records what was explored, wh
 3. AI Lead Follow-Up Systems — 7.5
 4. Drop Servicing AI Content Agency — 7.5
 5. AI-Enhanced Niche Content Writing — 7.0
+
+---
+
+## Session 7 — 2026-03-22 — Domain and Website Flipping
+
+**Queue item:** Domain and website flipping (buy undervalued sites on Flippa, improve, resell)
+
+**Sources explored (3):**
+1. flippa.com blog — **2 findings** — Quality: High (real sale data)
+2. flippa.com buyer guide — **3 findings** — Quality: High
+3. flippa.com investment guide — **1 finding** — Quality: Medium
+
+**Opportunities added:** 3 (IDs 31-33 in pains.csv)
+- Website Flipping Buy-Improve-Sell (High revenue, validated)
+- Micro-Acquisition of Small SaaS/Apps (Very High revenue, scored)
+- Domain Name Flipping (Medium revenue, scored)
+
+**Quick wins graduated:** 1 (ID 12 in opportunities.csv)
+1. Website Flipping — priority 5.5 — Longer time horizon but real asset building. AI gives edge for site improvement.
+
+**Key observations:**
+- Flippa is a mature, active marketplace with real exits: YouTube channel sold for $300K, content sites for $1.4M
+- Standard valuation multiples: content sites at 24-36x monthly profit, SaaS at 36-60x
+- AI gives massive advantage in website flipping -- can improve content 10x faster than manual
+- Requires more capital ($1-15K) and patience (6-12 months) than service models
+- Lower priority score because of slower time-to-revenue, but highest long-term wealth-building potential

@@ -13,7 +13,7 @@ moving items to "Explored" once covered and adding new leads as discovered.
 - [x] Drop servicing (sell services, outsource fulfillment, keep margin)
 
 ## Medium Priority
-- [ ] Domain and website flipping (buy undervalued sites on Flippa, improve, resell)
+- [x] Domain and website flipping (buy undervalued sites on Flippa, improve, resell)
 - [ ] Print-on-demand with AI designs (Merch by Amazon, Redbubble, Etsy)
 - [ ] Affiliate marketing loopholes (underserved niches, comparison sites, expired domains with backlinks)
 - [ ] Micro-SaaS quick builds (simple tools that solve one problem, charge $10-50/month)
