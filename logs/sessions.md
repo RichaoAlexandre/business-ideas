@@ -231,3 +231,25 @@ Append-only log of research sessions. Each session records what was explored, wh
 - AI gives massive advantage in website flipping -- can improve content 10x faster than manual
 - Requires more capital ($1-15K) and patience (6-12 months) than service models
 - Lower priority score because of slower time-to-revenue, but highest long-term wealth-building potential
+
+---
+
+## Session 8 — 2026-03-22 — Print-on-Demand with AI Designs
+
+**Queue item:** Print-on-demand with AI designs (Merch by Amazon, Redbubble, Etsy)
+
+**Sources explored (1):**
+1. shopify.com — POD Guide — **2 findings** — Quality: High
+
+**Opportunities added:** 2 (IDs 34-35 in pains.csv)
+- AI-Designed POD T-Shirts and Merch (Medium revenue, scored)
+- Niche POD Brand with AI Art (Medium revenue, scored)
+
+**Quick wins graduated:** 0 — POD margins are thin and competition is very high. Not graduating unless validation shows otherwise.
+
+**Key observations:**
+- $11B market, 23.6% CAGR — massive and growing
+- AI design generation is a real advantage but the POD space is extremely saturated
+- Best strategy: ultra-niche focus (specific dog breeds, niche hobbies) where volume + SEO wins
+- Grey Journal warned about AI-generated Amazon/Etsy stores being cracked down on
+- Lower priority than service-based models due to thin margins and high competition
