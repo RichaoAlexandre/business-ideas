@@ -132,3 +132,32 @@ Append-only log of research sessions. Each session records what was explored, wh
 - FTC cracked down on multiple AI passive income scams in 2025-2026 ($40M+ in losses) -- important to position as legitimate service
 - Grey Journal source continues to be the best single source found in this research run
 - Many AI automation blog posts from 2024-era are now 404 -- content lifecycle is very short in this space
+
+---
+
+## Session 5 — 2026-03-22 — Content Monetization Shortcuts
+
+**Queue item:** Content monetization shortcuts (faceless YouTube, AI blogs, newsletter flips)
+
+**Sources explored (4):**
+1. tachilink.com — Making Money with AI Reddit — **3 findings** — Quality: Medium
+2. newzyatra.com — Make Money with AI 2025 — **3 findings** — Quality: Medium
+3. authorityhacker.com — 404 — **0 findings** — Quality: Low
+4. earnflowblog.com — Failed to parse — **0 findings** — Quality: Low
+
+**Opportunities added:** 4 (IDs 23-26 in pains.csv)
+- Faceless AI YouTube Channel (High revenue, scored)
+- AI-Powered Niche Blog with Affiliate Marketing (Medium revenue, validated)
+- AI Newsletter Business (High revenue, validated)
+- AI-Generated Digital Product Store (Medium revenue, scored)
+
+**Quick wins graduated:** 2 (IDs 9-10 in opportunities.csv)
+1. AI Niche Blog with Affiliate Marketing — priority 6.3 — Slower but builds sellable passive income asset
+2. AI Newsletter Business — priority 6.8 — Buildable sellable asset, AI dramatically reduces curation time
+
+**Key observations:**
+- Content monetization has longer time-to-first-dollar (4-12 weeks) vs service models (1-2 weeks)
+- But content builds ASSETS that can be sold (blogs sell for 24-36x monthly, newsletters for 20-40x monthly)
+- Faceless YouTube is popular but Grey Journal warned it's a crowded space being cracked down on
+- AI tool affiliate programs are uniquely lucrative (20-50% recurring commissions) -- meta-play of writing about AI tools
+- Google's 2025 spam updates mean pure AI content gets penalized -- human editing is mandatory
