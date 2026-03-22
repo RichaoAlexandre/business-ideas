@@ -101,3 +101,34 @@ Append-only log of research sessions. Each session records what was explored, wh
 - The meta-play (selling arbitrage scanning as a service) may be higher ROI than doing arbitrage yourself
 - Clearance/liquidation flipping has highest margins (50-90%) but is harder to systematize
 - This niche is well-documented but most advice is outdated (2018 era) -- current landscape may differ
+
+---
+
+## Session 4 — 2026-03-22 — AI Automation Agency
+
+**Queue item:** AI automation agency (sell AI workflow setups to small businesses)
+
+**Sources explored (5):**
+1. greyjournal.net (continued from batch 1) — **3 findings** — Quality: High
+2. glaziang.com — AI Jobs & Freelancing 2025 — **1 finding** — Quality: Low
+3. morningscore.io — 404 — **0 findings** — Quality: Low
+4. zapier.com — 404 — **0 findings** — Quality: Low
+5. n8n.io — 404 — **0 findings** — Quality: Low
+
+**Note:** DuckDuckGo remained fully rate-limited. Many target URLs returned 404. Relied on deeper reading of Grey Journal article (2nd half) which had excellent agency-specific content.
+
+**Opportunities added:** 3 (IDs 20-22 in pains.csv)
+- AI Automation Agency (Productized Service) — Very High revenue, validated
+- AI Lead Follow-Up Systems for Specific Industries — High revenue, validated
+- AI-Powered Client Proposal/Report Generator — Medium revenue, scored
+
+**Quick wins graduated:** 2 (IDs 7-8 in opportunities.csv)
+1. AI Automation Agency (Productized) — priority 7.0 — Scale beyond freelancing with productized packages + VAs
+2. AI Lead Follow-Up Systems — priority 7.5 — High-conviction quick win. Clear ROI pitch, built in a weekend.
+
+**Key observations:**
+- This topic overlaps heavily with Batch 1 opportunity #1. Key difference: agency model uses VAs and productized packages for leverage
+- The "speed to lead" AI system is the single most actionable and sellable quick win discovered so far
+- FTC cracked down on multiple AI passive income scams in 2025-2026 ($40M+ in losses) -- important to position as legitimate service
+- Grey Journal source continues to be the best single source found in this research run
+- Many AI automation blog posts from 2024-era are now 404 -- content lifecycle is very short in this space
