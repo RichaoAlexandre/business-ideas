@@ -21,12 +21,12 @@ moving items to "Explored" once covered and adding new leads as discovered.
 - [x] Local business lead generation (rank simple sites, sell leads to contractors/dentists/etc)
 
 ## Low Priority / Exploratory
-- [ ] Crypto and DeFi yield opportunities (staking, airdrops, testnet farming)
-- [ ] Data scraping and selling (public data packaged as valuable datasets)
-- [ ] API arbitrage (connect two services that don't talk to each other, charge for the bridge)
-- [ ] Online tutoring/coaching with AI leverage (use AI to prep, scale 1:many)
-- [ ] Digital real estate (buy/build niche directories, rank, monetize with ads or listings)
-- [ ] Prompt engineering marketplace (sell specialized prompts/agents)
+- [x] Crypto and DeFi yield opportunities (staking, airdrops, testnet farming) — skipped, too speculative/risky for quick wins framework
+- [x] Data scraping and selling (public data packaged as valuable datasets) — skipped, legal gray area and low quick-win potential
+- [x] API arbitrage (connect two services that don't talk to each other, charge for the bridge)
+- [x] Online tutoring/coaching with AI leverage (use AI to prep, scale 1:many)
+- [x] Digital real estate (buy/build niche directories, rank, monetize with ads or listings)
+- [x] Prompt engineering marketplace (sell specialized prompts/agents)
 
 ## Explored
 (Items move here once sources have been explored and opportunities extracted)

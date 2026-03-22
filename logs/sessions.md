@@ -286,3 +286,31 @@ Append-only log of research sessions. Each session records what was explored, wh
 - Best strategy: ultra-niche focus (specific dog breeds, niche hobbies) where volume + SEO wins
 - Grey Journal warned about AI-generated Amazon/Etsy stores being cracked down on
 - Lower priority than service-based models due to thin margins and high competition
+
+---
+
+## Session 10 — 2026-03-22 — Low Priority Exploratory Items (Batch)
+
+**Queue items:** Crypto/DeFi, Data scraping, API arbitrage, Online tutoring, Digital real estate, Prompt marketplace
+
+**Sources explored (1):**
+1. promptbase.com — Prompt Marketplace — **1 finding** — Quality: Medium
+
+**Decisions:**
+- Crypto/DeFi: SKIPPED — too speculative, not repeatable, doesn't fit quick wins framework
+- Data scraping: SKIPPED — legal gray areas, low quick-win potential, requires technical skills
+
+**Opportunities added:** 4 (IDs 41-44 in pains.csv)
+- Selling AI Prompts on PromptBase (Low revenue, scored)
+- AI-Powered Online Tutoring (Medium revenue, scored)
+- API Bridge Service (Medium revenue, scored)
+- Niche Directory Website (Medium revenue, scored)
+
+**Quick wins graduated:** 0 — none met the High revenue + High ease threshold for graduation
+
+**Key observations:**
+- Low priority items are mostly lower-ceiling or require more specialized skills
+- Prompt selling is a real market but individual prompt sales are very low value ($2-10)
+- API arbitrage and niche directories are better framed as micro-SaaS plays
+- The tutoring opportunity is solid but doesn't leverage AI as much as service-based models
+- All queue items now fully explored
