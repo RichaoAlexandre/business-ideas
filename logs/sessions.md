@@ -234,6 +234,39 @@ Append-only log of research sessions. Each session records what was explored, wh
 
 ---
 
+## Session 8 (POD) — see below
+
+---
+
+## Session 9 — 2026-03-22 — Remaining Medium Priority Items (Batch)
+
+**Queue items:** Affiliate marketing loopholes, Micro-SaaS, Social media management with AI, Local business lead generation
+
+**Sources explored (2):**
+1. shopify.com — Affiliate Marketing Guide — **3 findings** — Quality: High ($12B industry, case study $267→$21.8K/mo)
+2. microsaasidea.com — Micro SaaS Ideas — **2 findings** — Quality: Medium (1200+ validated ideas database)
+
+**Note:** Batched 4 remaining Medium Priority items together. Social media management and local lead gen overlap significantly with earlier batches (AI automation, drop servicing). Used existing source data to extract those opportunities.
+
+**Opportunities added:** 5 (IDs 36-40 in pains.csv)
+- AI Tool Affiliate Review Site (High revenue, validated)
+- Expired Domain Affiliate Site Hack (High revenue, scored)
+- Micro-SaaS: AI-Powered Niche Tool (High revenue, scored)
+- AI Social Media Management Retainer (Medium revenue, scored)
+- Local Business Lead Generation with AI (High revenue, scored)
+
+**Quick wins graduated:** 1 (ID 13 in opportunities.csv)
+1. AI Tool Affiliate Review Site — priority 6.8 — Meta-profitable: review AI tools using AI tools. Recurring SaaS commissions 20-50%.
+
+**Key observations:**
+- AI tool affiliate programs are uniquely lucrative due to recurring commissions (20-50% monthly)
+- The meta-play (using AI to write about AI tools that pay you recurring commissions) is the most elegant passive income model discovered
+- Micro-SaaS requires coding ability which limits the audience but MicroSaaSIdea.com provides 1200+ validated ideas
+- Local lead gen and social media management overlap heavily with AI automation agency opportunities
+- All Medium Priority items now explored
+
+---
+
 ## Session 8 — 2026-03-22 — Print-on-Demand with AI Designs
 
 **Queue item:** Print-on-demand with AI designs (Merch by Amazon, Redbubble, Etsy)

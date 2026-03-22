@@ -15,10 +15,10 @@ moving items to "Explored" once covered and adding new leads as discovered.
 ## Medium Priority
 - [x] Domain and website flipping (buy undervalued sites on Flippa, improve, resell)
 - [x] Print-on-demand with AI designs (Merch by Amazon, Redbubble, Etsy)
-- [ ] Affiliate marketing loopholes (underserved niches, comparison sites, expired domains with backlinks)
-- [ ] Micro-SaaS quick builds (simple tools that solve one problem, charge $10-50/month)
-- [ ] Social media management with AI (manage accounts using AI tools, charge retainer)
-- [ ] Local business lead generation (rank simple sites, sell leads to contractors/dentists/etc)
+- [x] Affiliate marketing loopholes (underserved niches, comparison sites, expired domains with backlinks)
+- [x] Micro-SaaS quick builds (simple tools that solve one problem, charge $10-50/month)
+- [x] Social media management with AI (manage accounts using AI tools, charge retainer)
+- [x] Local business lead generation (rank simple sites, sell leads to contractors/dentists/etc)
 
 ## Low Priority / Exploratory
 - [ ] Crypto and DeFi yield opportunities (staking, airdrops, testnet farming)
