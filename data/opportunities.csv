@@ -1,1 +1,1 @@
-id,pain_id,proposed_solution,solution_type,revenue_model,target_customer,estimated_complexity,competition_notes,priority_score,date_graduated,notes
+id,pain_id,opportunity_description,source_url,source_platform,solution_type,pain_intensity,date_added
